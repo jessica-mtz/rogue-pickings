@@ -126,6 +126,14 @@ header nav ul li a{
 	border-top: 1px solid #eee;
 }
 
+.address {
+	padding-left: 0;
+}
+
+.reviews {
+	padding-left: 0;
+}
+
 .menu {
 	list-style: none;
 	padding: 0;
